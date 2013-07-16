@@ -10,7 +10,7 @@ body {
 	background-position: top
 }
 
-a, a:link, a:visited { color: #df802e; text-decoration: none; }
+a, a:link, a:visited { color: #04acec; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 p { margin: 0 0 10px 0; padding: 0; }
@@ -133,7 +133,7 @@ em { color: #359548 }
 	height: 100px; 
 	color: #F60; 
 	text-indent: -10000px; 
-	background: url(../images/htnpng.png) no-repeat
+	background: url(../images/main_logo.png) no-repeat
 }
 
 /* menu */
@@ -539,7 +539,7 @@ color: #FF0000;
 	font-weight: 700;
 	outline: none;
 	border: none;
-	background: url(../images/logout.jpg) right center no-repeat
+	background: url(../images/logout1.png) right center no-repeat
 }
 
 #newspaper-b
@@ -573,7 +573,7 @@ color: #FF0000;
 #newspaper-b tbody tr:hover td
 {
 	color: #339;
-	background: #FF9D19;
+	background: #04acec;
 }
 #newspaper-b tr:nth-child(even) {background: #E8EDFF}
 #newspaper-b tr:nth-child(odd) {background: #FFF}

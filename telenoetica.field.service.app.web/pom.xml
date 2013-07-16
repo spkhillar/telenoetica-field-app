@@ -125,7 +125,7 @@
 				<version>2.3</version>
 				<configuration>
 					<archiveClasses>true</archiveClasses>
-					<warName>fieldapp</warName>
+					<warName>telenoetica-fieldapp</warName>
 				</configuration>
 			</plugin>
 
